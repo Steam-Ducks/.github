@@ -4,7 +4,7 @@ Bem-vindo a Steam Ducks! Somos uma organização dedicada ao desenvolvimento dos
 
 ## Sobre
 
-Este repositório contém os projetos desenvolvidos pelos alunos ao longo do curso, com novos desafios a cada semestre que refletem nossa evolução e aprendizado.
+Esta organização contém os projetos desenvolvidos pelos alunos ao longo do curso, com novos desafios a cada semestre que refletem nossa evolução e aprendizado.
 
 | Semestre           | Projeto                              | Descrição                                                                                                     |
 |--------------------|--------------------------------------|---------------------------------------------------------------------------------------------------------------|
