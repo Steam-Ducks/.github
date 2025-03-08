@@ -20,7 +20,7 @@ Abaixo você pode visualizar o que fizemos e o que estamos desenvolvendo no mome
 |--------------------|--------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | **1º SEM** |    **Calculadora Científica**         | O projeto consiste em desenvolver uma calculadora científica, inicialmente em Visualg e, posteriormente, convertida para Typescript, com funcionalidades matemáticas básicas e avançadas, oferecendo uma introdução ao desenvolvimento de software. |
 | **2º SEM**  |    **Sistema de Avaliação PACER**    | Sistema de Avaliação PACER, uma aplicação desktop que permite que alunos avaliem seus colegas de equipe com base em critérios definidos por um administrador, incluindo a modelagem de um banco de dados relacional para gerenciar informações sobre grupos, alunos e critérios de avaliação. |
-| **3º SEM**  |    **Sistema de Ponto**    | O projeto consiste em desenvolver uma aplicação web, onde colaboradores de tercerizadas possam ser cadastrados nesse sistema, e possam fazer a validação do seu tempo de entrada e saída de trabalho, para que dessa forma a empresa possa realizar o pagamento de forma adequada. Além da possibilidade de gerarção de relatórios. |
+| **3º SEM**  |    **Sistema de Ponto**    | O projeto consiste em desenvolver uma aplicação web, onde colaboradores de tercerizadas possam ser cadastrados nesse sistema, e possam fazer a validação do seu tempo de entrada e saída de trabalho, para que dessa forma a empresa possa realizar o pagamento de forma adequada. Além da possibilidade de geração de relatórios. |
 
 ## Integrantes da equipe Steam Ducks
 
