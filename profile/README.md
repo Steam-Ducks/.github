@@ -2,9 +2,19 @@
 
 Bem-vindo a Steam Ducks! Somos uma organização dedicada ao desenvolvimento dos APIs (Aprendizagem por Projetos Integradores), realizados durante os semestres do curso de Banco de Dados, da FATEC Profº Jessen Vidal (São José dos Campos, SP).
 
+## Identidade Visual
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/Steam-Ducks/.github/main/profile/assets/SD%20-%20Brand.png" 
+         alt="Identidade Visual" 
+         width="60%">
+</div>
+
+
+
 ## Sobre
 
 Esta organização contém os projetos desenvolvidos pelos alunos ao longo do curso, com novos desafios a cada semestre que refletem nossa evolução e aprendizado.
+Abaixo você pode visualizar o que fizemos e o que estamos desenvolvendo no momento.
 
 | Semestre           | Projeto                              | Descrição                                                                                                     |
 |--------------------|--------------------------------------|---------------------------------------------------------------------------------------------------------------|
