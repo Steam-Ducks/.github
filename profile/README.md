@@ -1,24 +1,24 @@
-# Steam Ducks
+![Header](/profile/assets/header.png)
 
 Bem-vindo a Steam Ducks! Somos uma organização dedicada ao desenvolvimento dos APIs (Aprendizagem por Projetos Integradores), realizados durante os semestres do curso de Banco de Dados, da FATEC Profº Jessen Vidal (São José dos Campos, SP).
 
 ## Identidade Visual
 
-![Identidade Visual](https://raw.githubusercontent.com/Steam-Ducks/.github/main/profile/assets/SD%20-%20Brand.png)
+![Identidade Visual](/profile/assets/id.png)
 
 ## Sobre
 
 Esta organização contém os projetos desenvolvidos pelos alunos ao longo do curso, com novos desafios a cada semestre que refletem nossa evolução e aprendizado.
 Abaixo você pode visualizar o que fizemos e o que estamos desenvolvendo no momento.
 
-| Semestre   | Projeto | Descrição |
-| ---------- | ------- | --------- |
-| **1º SEM** | [**Calculadora Científica**](https://github.com/Steam-Ducks/scientific-calculator) | O projeto consiste em desenvolver uma calculadora científica, inicialmente em Visualg e, posteriormente, convertida para TypeScript, com funcionalidades matemáticas básicas e avançadas, oferecendo uma introdução ao desenvolvimento de software. |
-| **2º SEM** | [**Sistema de Avaliação PACER**](https://github.com/Steam-Ducks/pacer-assessment-system) | Aplicação desktop que permite que alunos avaliem seus colegas de equipe com base em critérios definidos por um administrador, incluindo a modelagem de um banco de dados relacional para gerenciar informações sobre grupos, alunos e critérios de avaliação. |
-| **3º SEM** | [**Sistema de Ponto – pontual.**](https://github.com/Steam-Ducks/point-system) | Aplicação web onde colaboradores de empresas terceirizadas podem ser cadastrados e validar seus horários de entrada e saída, permitindo que a empresa realize o pagamento de forma adequada, além de gerar relatórios. |
-| **4º SEM** | [**Tráfegou! – Monitoramento de Tráfego Inteligente**](https://github.com/Steam-Ducks/traffic-monitoring-system) | Portal desenvolvido para a Prefeitura de São José dos Campos que consolida indicadores de mobilidade urbana, classifica as regiões da cidade em níveis de tráfego de 1 a 5 exibidos em mapa interativo e dispara alertas automáticos via Telegram, vinculados a protocolos de ação que os gestores podem responder e encerrar. |
-| **5º SEM** | [**SCAR – Gestão Analítica de Programas Estratégicos**](https://github.com/Steam-Ducks/strategic-cost-analytics) | Solução analítica desenvolvida em parceria com a SIATT, baseada em um Data Warehouse que consolida custos de materiais, horas técnicas, projetos e programas estratégicos, permitindo análises multidimensionais e históricas, acompanhamento de desvios orçamentários e classificação da saúde financeira de cada projeto. |
-| **6º SEM** | [**Akpedia – Classificador de Documentos Técnicos**](https://github.com/Steam-Ducks/akpedia) 🚧 | Projeto em desenvolvimento em parceria com a Akaer, empresa de engenharia aeronáutica, espacial e de defesa. A solução classifica automaticamente documentos técnicos, extrai e normaliza metadados e oferece busca semântica centralizada, com curadoria humana das categorias e acesso controlado por departamento e perfil. |
+| Semestre   | Projeto | Descrição | Status |
+| ---------- | ------- | --------- |--------- |
+| **1º SEM** | [**Calculadora Científica**](https://github.com/Steam-Ducks/scientific-calculator) | O projeto consiste em desenvolver uma calculadora científica, inicialmente em Visualg e, posteriormente, convertida para TypeScript, com funcionalidades matemáticas básicas e avançadas, oferecendo uma introdução ao desenvolvimento de software. |Entregue |
+| **2º SEM** | [**Sistema de Avaliação PACER**](https://github.com/Steam-Ducks/pacer-assessment-system) | Aplicação desktop que permite que alunos avaliem seus colegas de equipe com base em critérios definidos por um administrador, incluindo a modelagem de um banco de dados relacional para gerenciar informações sobre grupos, alunos e critérios de avaliação. |Entregue |
+| **3º SEM** | [**Sistema de Ponto – pontual.**](https://github.com/Steam-Ducks/point-system) | Aplicação web onde colaboradores de empresas terceirizadas podem ser cadastrados e validar seus horários de entrada e saída, permitindo que a empresa realize o pagamento de forma adequada, além de gerar relatórios. |Entregue |
+| **4º SEM** | [**Tráfegou! – Monitoramento de Tráfego Inteligente**](https://github.com/Steam-Ducks/traffic-monitoring-system) | Portal desenvolvido para a Prefeitura de São José dos Campos que consolida indicadores de mobilidade urbana, classifica as regiões da cidade em níveis de tráfego de 1 a 5 exibidos em mapa interativo e dispara alertas automáticos via Telegram, vinculados a protocolos de ação que os gestores podem responder e encerrar. |Entregue |
+| **5º SEM** | [**SCAR – Gestão Analítica de Programas Estratégicos**](https://github.com/Steam-Ducks/strategic-cost-analytics) | Solução analítica desenvolvida em parceria com a SIATT, baseada em um Data Warehouse que consolida custos de materiais, horas técnicas, projetos e programas estratégicos, permitindo análises multidimensionais e históricas, acompanhamento de desvios orçamentários e classificação da saúde financeira de cada projeto. |Entregue |
+| **6º SEM** | [**Akpedia – Classificador de Documentos Técnicos**](https://github.com/Steam-Ducks/akpedia) 🚧 | Projeto em desenvolvimento em parceria com a Akaer, empresa de engenharia aeronáutica, espacial e de defesa. A solução classifica automaticamente documentos técnicos, extrai e normaliza metadados e oferece busca semântica centralizada, com curadoria humana das categorias e acesso controlado por departamento e perfil. | Em desenvolvimento |
 
 ## Integrantes da equipe Steam Ducks
 
@@ -37,8 +37,6 @@ Abaixo você pode visualizar o que fizemos e o que estamos desenvolvendo no mome
 
 ## Contato
 
-Para mais informações, entre em contato com a equipe do projeto através do steamduckss@gmail.com.
+Para mais informações, nos envie uma mensagem ou entre em contato com a equipe do projeto através do steamduckss@gmail.com.
 
----
-
-**Steam Ducks** - FATEC São José dos Campos
+![Footer](/profile/assets/footer.png)
